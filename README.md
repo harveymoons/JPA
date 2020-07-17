@@ -16,7 +16,9 @@ Define to provide table information
 - @Transient
 - @Access(AccessType.FIELD / PROPERTY)
 - @ManyToOne
-- @JoinColumn
+- @OneToOne
+- @OneToMany(mappedBy)
+- @JoinColumn(name)
   
 ## Configure
 Set to make up for reference of project
