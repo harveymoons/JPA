@@ -9,6 +9,8 @@ Define to provide table information
 - @Table
 - @Id
 - @Column
+- @ManyToOne
+- @JoinColumn
   
 ## Configure
 Set-up to make up for preference of project
