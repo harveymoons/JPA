@@ -15,4 +15,4 @@ Set-up to make up for preference of project
 - pom.xml
 - persistence.xml
   
-[GitHub mark-down Ref.] https://github.com/cheshire137/git-point/blob/master/README.md   
+[Ref.] `GitHub mark-down` https://github.com/cheshire137/git-point/blob/master/README.md   
