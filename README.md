@@ -8,7 +8,13 @@ Define to provide table information
 - @Entity
 - @Table
 - @Id
-- @Column
+- @GeneratedValue(strategy = GenerationType.IDENTITY)
+- @Column(name, nullable, length)
+- @Enumerated(EnumType.STRING)
+- @Temporal(TemporalType.TIMESTAMP / DATE / TIME)
+- @Lob
+- @Transient
+- @Access(AccessType.FIELD / PROPERTY)
 - @ManyToOne
 - @JoinColumn
   
