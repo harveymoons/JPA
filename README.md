@@ -1,5 +1,4 @@
-## JPA
-Java Persistence API
+## JPA (Java Persistence API)
   
 - [Anotation](#anotation)
 - [Configure](#configure)
@@ -10,6 +9,6 @@ Java Persistence API
 - @Id
 - @Column
   
-## configure JPA
+## Configure
 - pom.xml
 - persistence.xml
