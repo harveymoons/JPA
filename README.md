@@ -13,7 +13,7 @@ Define to provide table information
 - @JoinColumn
   
 ## Configure
-Set-up to make up for preference of project
+Set to make up for preference of project
 - pom.xml
 - persistence.xml
   
