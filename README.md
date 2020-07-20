@@ -19,6 +19,7 @@ Define to provide table information
 - @OneToOne
 - @OneToMany(mappedBy)
 - @JoinColumn(name)
+- @MappedSuperclass
   
 ## Configure
 Set to make up for reference of project
