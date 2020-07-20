@@ -1,7 +1,13 @@
 ## JPA (Java Persistence API)
   
-- [Anotation](#anotation)
 - [Configure](#configure)
+- [Anotation](#anotation)
+- [Proxy](#proxy)
+  
+## Configure
+Set to make up for reference of project
+- pom.xml
+- persistence.xml  
   
 ## Anotation
 Define to provide table information
@@ -20,10 +26,8 @@ Define to provide table information
 - @OneToMany(mappedBy)
 - @JoinColumn(name)
 - @MappedSuperclass
+- @Embedded
   
-## Configure
-Set to make up for reference of project
-- pom.xml
-- persistence.xml
+## Proxy    
   
-[Ref.] `GitHub mark-down` https://github.com/cheshire137/git-point/blob/master/README.md   
+[Ref.] `GitHub mark-down` https://github.com/cheshire137/git-point/blob/master/README.md  
