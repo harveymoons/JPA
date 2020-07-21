@@ -32,6 +32,8 @@ Define to provide table information
 - @ElementCollection
 - @CollectionTable
 - @PersistenceContext
+- @Convert
+- @Converter
   
 ## Proxy  
   
