@@ -34,6 +34,7 @@ Define to provide table information
 - @PersistenceContext
 - @Convert
 - @Converter
+- @Transactional
   
 ## Proxy  
   
