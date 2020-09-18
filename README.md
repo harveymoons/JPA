@@ -3,6 +3,7 @@
 - [Configure](#configure)
 - [Anotation](#anotation)
 - [Proxy](#proxy)
+- [Method Name](#method-name)
   
 ## Configure
 Set to make up for reference of project
@@ -37,6 +38,8 @@ Define to provide table information
 - @Transactional
   
 ## Proxy  
+
+## Method Name
   
 ## JPQL (Java Persistence Query Language)
   
